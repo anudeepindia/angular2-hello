@@ -1,2 +1,2 @@
-# angular2-hello
-To sneak peek to Angular 2
+# angular8-hello
+To sneak peek to Angular 8
